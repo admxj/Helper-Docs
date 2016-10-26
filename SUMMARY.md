@@ -2,5 +2,4 @@
 * [Ubuntu 用户操作](Ubuntu 用户操作.md)
 * [Nginx常见错误](Nginx常见错误.md)
 * [MySQL常见错误](MySQL常见错误.md)
-* [网络故障判断](网络故障判断.md)
 * [Service命令使用](Service命令使用.md)
