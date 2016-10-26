@@ -12,3 +12,25 @@ service <service> start
 service nginx start
 ```
 就是启动Nginx
+
+## 查看服务状态
+```
+service <service> status
+```
+查看服务状态，将`<service>`换为你使用的服务。
+比如
+``` 
+service nginx status
+```
+就是查看nginx服务的状态，是否正常运行
+
+## 停止服务
+```
+service <service> stop
+```
+停止服务，将`<service>`换为你使用的服务。
+比如
+``` 
+service nginx stop
+```
+就是停止服务
