@@ -33,4 +33,4 @@ service <service> stop
 ``` 
 service nginx stop
 ```
-就是停止服务
+就是停止Nginx服务.
