@@ -26,4 +26,3 @@ vi path/to/file
  
 ## 提示有SWP文件怎么办？
 
-
