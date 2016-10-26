@@ -34,3 +34,4 @@ service <service> stop
 service nginx stop
 ```
 就是停止Nginx服务.
+## 重启服务
