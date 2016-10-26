@@ -43,4 +43,4 @@ service <service> restart
 ``` 
 service nginx restart
 ```
-就是停止Nginx服务.
+就是重启Nginx服务.
