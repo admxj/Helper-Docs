@@ -35,3 +35,12 @@ service nginx stop
 ```
 就是停止Nginx服务.
 ## 重启服务
+```
+service <service> restart
+```
+重启服务，将`<service>`换为你使用的服务。
+比如
+``` 
+service nginx restart
+```
+就是停止Nginx服务.
